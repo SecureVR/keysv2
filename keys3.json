@@ -1,6 +1,10 @@
 {
   "keys":[ {
-   "f1273abd529ff4428afecd5344342b27" : "f1273abd529ff4428afecd5344342b27", //oculus rift pclucass
-    "1a72a82fb1a41da1":"1a72a82fb1a41da1", //oculus1 2045 safety training
+    
+    "_comment":  "oculus rift 2045 safety training PClucass",
+   "f1273abd529ff4428afecd5344342b27" : "f1273abd529ff4428afecd5344342b27",
+    
+    "_comment":  "oculus quest 2045 safety training 1",
+    "1a72a82fb1a41da1":"1a72a82fb1a41da1",
      }]
 }
